@@ -1,0 +1,19 @@
+# Example yx project configuration.
+# Copy to <your-yocto-project>/.yx/project.toml and adjust.
+
+[env]
+profile = "yocto-scarthgap-kas52"
+backend = "nix-develop" # nix-develop, docker, podman, or container
+yxenv = "github:why-ex/yx-env"
+# image = "ghcr.io/why-ex/yx-env:yocto-scarthgap-kas52" # required for container backend
+
+[kas]
+default = "kas/project.yml"
+
+[paths]
+downloads = ".yx/downloads"
+sstate = ".yx/sstate"
+build = "build"
+
+[build]
+default_target = "core-image-minimal"
