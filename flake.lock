@@ -42,11 +42,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1785665776,
-        "narHash": "sha256-4hla+QlOhsXWqNWGbgV4FGotLLaTPcX2Eg++qP2+tPA=",
+        "lastModified": 1785956857,
+        "narHash": "sha256-jNPIrQBV4mk7iEvV2cZhxB1Bi3lWlD5FmSK0SOTKB5c=",
         "owner": "u2up",
         "repo": "pi-en",
-        "rev": "f5ff52a0e9cce31d18c57f4200a185036d4dc485",
+        "rev": "51f853b046291a0c9bea50cb65396ea465dbed33",
         "type": "github"
       },
       "original": {
