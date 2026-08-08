@@ -1,0 +1,3 @@
+version: 1
+coordination_remote: /home/samo/GITHUB/why-ex/agent-remotes/whyex-coordination.git
+repo_id: yx
